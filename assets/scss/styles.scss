@@ -1,0 +1,16 @@
+// import of partial files
+@use 'config/variables' as *;
+@use 'base/base' as *;
+@use 'theme/theme' as *;
+@use 'layout/layout' as *;
+@use 'components/header' as *;
+@use 'components/home' as *;
+@use 'components/buttons' as *;
+@use 'components/about' as *;
+@use 'components/security' as *;
+@use 'components/services' as *;
+@use 'components/app' as *;
+@use 'components/contact' as *;
+@use 'components/footer' as *;
+@use 'components/scroll' as *;
+@use 'components/mediaqueries' as *;
